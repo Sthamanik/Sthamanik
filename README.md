@@ -1,17 +1,48 @@
 # Hi 👋, I'm Manik Kumar Shrestha
 
-**Backend Engineer | Scalable Systems & Applied AI/ML**
+**Backend Engineer | AI/ML Enthusiast | Building Intelligent Systems**
 
-I am a backend-focused software engineer with strong experience in building **scalable, role-based, real-world web systems**. I enjoy designing systems end-to-end — from API design and database modeling to authentication, analytics, and performance considerations.
-
-Currently, I am deepening my expertise in **AI/ML** and exploring how intelligent models can be integrated into backend systems to solve real-world problems efficiently.
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+🎓 BSc CSIT Student @ Tribhuvan University, Nepal  
+💼 Open to Backend Engineering & ML Engineering opportunities  
+🌍 Based in Kathmandu, Nepal
 
 ---
+
+# 💫 About Me:
+- 🔭 I'm currently working on **OptiLang** - an AI-powered interpreter with real-time code optimization
+- 🌱 I'm currently learning **MLOps, System Design, and Cloud Architecture**<br>
+- 💻 My projects: **OptiLang**, **Crop Recommendation System)**, **Satyanvesh**<br>
+- 👨‍💻 All of my projects are available at [github.com/Sthamanik](https://github.com/Sthamanik)<br>
+- 💬 Ask me about **Backend Development, Machine Learning, TypeScript, Express, Python, FastAPI**<br>
+- 📫 Reach me at **shresthamanik1820@gmail.com**<br>
+- ⚡ Fun fact: **I believe AI should make developers more productive, not replace them**
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manikkumar.shrestha.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stha_manik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manik-kumar-shrestha-d1820) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shresthamanik1820@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🎯 Featured Projects
+
+### [OptiLang - AI Code Interpreter](https://github.com/Sthamanik/OptiLang)
+Web-based interpreter with AI-powered optimization suggestions  
+**Tech:** React, Express, FastAPI, MongoDB, Docker  
+**Features:** Real-time profiling, pattern detection, execution analytics  
+_🚧 In Development_
+
+### [Crop Recommendation System](https://github.com/Sthamanik/Crop-recommendation)
+Machine learning system achieving 99%+ accuracy  
+**Tech:** Python, Scikit-learn, XGBoost, Streamlit  
+**Deployed:** [Live Demo](https://stham-crop-recommendation.streamlit.app/)  
+_✅ Production Ready_
+
+### [Satyanvesh - Legal Case Management](https://github.com/Sthamanik/Satyanvesh)
+Full-stack judiciary platform for Nepal  
+**Tech:** React, Express, TypeScript, MongoDB, Cloudinary  
+**Features:** Role-based access, document management, hearing scheduling  
+_🚧 In Development_
 
 ## 🧠 What I Care About
 
@@ -21,82 +52,24 @@ Currently, I am deepening my expertise in **AI/ML** and exploring how intelligen
 - Using AI/ML **practically**, not as buzzwords
 - Continuous learning and engineering discipline
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sthamanik&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sthamanik&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sthamanik&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Technical Skills
-
-### Backend & Systems
-- **Node.js, Express.js, TypeScript**
-- REST API Design & Authentication (JWT, RBAC)
-- Database Design & Modeling (MongoDB, Mongoose)
-- File Storage & Media Handling (Cloudinary, Multer)
-- Security Best Practices (Rate limiting, hashing, CORS)
-- Scalable project structuring (Controllers, Services, Models)
-
-### Frontend (Supporting)
-- React (Vite), Tailwind CSS
-- State Management: Zustand, TanStack Query
-- UI Libraries: Shadcn UI, Framer Motion
-
-### AI / ML (Growing Focus)
-- Supervised & Unsupervised Learning fundamentals
-- Model evaluation & feature understanding
-- Integrating ML logic into backend-driven applications
-
-### Tools & Practices
-- Git & GitHub
-- Clean Architecture & SOLID principles
-- Basic system design & scalability patterns
-- Debugging and refactoring production-like codebases
-
----
-
-## 🚀 Featured Project
-
-### **Satyanvesh – Modern Judiciary Platform**
-A full-scale legal case management system designed to streamline judiciary workflows with transparency and efficiency.
-
-**Key Highlights:**
-- Role-based access control for Judges, Lawyers, Litigants, and Admins
-- End-to-end case lifecycle management
-- Secure document repository with cloud storage
-- Smart notifications and scheduling system
-- Analytics dashboard for system insights
-- Modular backend architecture with clean separation of concerns
-
-**Tech Stack:**  
-Node.js · Express · TypeScript · MongoDB · React · Tailwind · JWT · Cloudinary
-
-> Satyanvesh reflects my ability to design and build **real-world, scalable systems** rather than isolated demo projects.
-
----
-
-## 📐 System Design Perspective
-
-I focus on:
-- Clear API boundaries
-- Scalable data models
-- Trade-offs between flexibility and consistency
-- Designing systems that can evolve with scale
-
-I enjoy thinking about **how systems behave under growth**, even when not all components (caching, queues, sharding) are implemented yet.
-
----
-
-## 📈 What I’m Currently Working On
-
-- Strengthening AI/ML foundations with a system-integration mindset
-- Enhancing existing projects with better scalability patterns
-- Preparing for backend-focused roles with strong system design expectations
-
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🤝 Let’s Connect
-
 - Open to backend and backend + AI/ML opportunities
 - Interested in building systems that solve meaningful problems
 - Always open to discussions around architecture, engineering growth, and learning
 
-Thanks for stopping by!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sthamanik&show_icons=true&locale=en&layout=compact" alt="Sthamanik" /></p>
+💡 _"Building intelligent systems that solve real-world problems"_
+<br><br><br>
+Thanks for stopping by!✨🌸
+---
+
+[![](https://visitcount.itsvg.in/api?id=Sthamanik&icon=0&color=0)](https://visitcount.itsvg.in)
+---
