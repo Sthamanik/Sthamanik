@@ -26,8 +26,8 @@
 
 ## 🎯 Featured Projects
 
-### [OptiLang - AI Code Interpreter](https://github.com/Sthamanik/OptiLang)
-Web-based interpreter with AI-powered optimization suggestions  
+### [OptiLang - Code Interpreter](https://github.com/Sthamanik/OptiLang)
+Web-based interpreter with optimization suggestions  
 **Tech:** React, Express, FastAPI, MongoDB, Docker  
 **Features:** Real-time profiling, pattern detection, execution analytics  
 _🚧 In Development_
