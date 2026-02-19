@@ -30,8 +30,8 @@
 Python inspired interpreter with real-time code analysis and optimization suggestions  
 **Tech:** Python 
 **Features:** Real-time profiling, pattern detection, execution analytics  
-**Deployed:**  [PyPI:](https://lnkd.in/gHUYSccN/)
 **Version:** 0.1.0
+**Deployed:**  [PyPI:](https://pypi.org/project/optilang/0.1.0/)
 _Next Phase 🚧 In Development_
 
 ### [OptiLang - Code Interpreter](https://github.com/Sthamanik/OptiLang-Web)
