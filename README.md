@@ -27,8 +27,16 @@
 ## 🎯 Featured Projects
 
 ### [OptiLang - Code Interpreter](https://github.com/Sthamanik/OptiLang)
+Python inspired interpreter with real-time code analysis and optimization suggestions  
+**Tech:** Python 
+**Features:** Real-time profiling, pattern detection, execution analytics  
+**Deployed:**  [PyPI:](https://lnkd.in/gHUYSccN/)
+**Version:** 0.1.0
+Next phase_🚧 In Development_
+
+### [OptiLang - Code Interpreter](https://github.com/Sthamanik/OptiLang-Web)
 Web-based interpreter with optimization suggestions  
-**Tech:** React, Express, FastAPI, MongoDB, Docker  
+**Tech:** React + Monaco Editor, Espress, Node, FastApi, MongoDB 
 **Features:** Real-time profiling, pattern detection, execution analytics  
 _🚧 In Development_
 
