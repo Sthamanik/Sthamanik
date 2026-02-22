@@ -34,7 +34,7 @@ Python inspired interpreter with real-time code analysis and optimization sugges
 **Deployed:**  [PyPI:](https://pypi.org/project/optilang/0.1.0/)
 _Next Phase 🚧 In Development_
 
-### [OptiLang - Code Interpreter](https://github.com/Sthamanik/OptiLang-Web)
+### [OptiLang - Web Application](https://github.com/Sthamanik/OptiLang-Web)
 Web-based interpreter with optimization suggestions  
 **Tech:** React + Monaco Editor, Espress, Node, FastApi, MongoDB 
 **Features:** Real-time profiling, pattern detection, execution analytics  
