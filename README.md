@@ -9,12 +9,12 @@
 ---
 
 # 💫 About Me:
-- 🔭 I'm currently working on **OptiLang** - an AI-powered interpreter with real-time code optimization
-- 🌱 I'm currently learning **MLOps, System Design, and Cloud Architecture**<br>
-- 💻 My projects: **OptiLang**, **Crop Recommendation System)**, **Satyanvesh**<br>
-- 👨‍💻 All of my projects are available at [github.com/Sthamanik](https://github.com/Sthamanik)<br>
-- 💬 Ask me about **Backend Development, System Design, Machine Learning, Go, TypeScript, Express, Python, FastAPI**<br>
-- 📫 Reach me at **shresthamanik1820@gmail.com**<br>
+- 🔭 I'm currently working on **OptiLang** - a Python inspired interpreter with optimization and suggestion engine
+- 🌱 I'm currently learning **MLOps, System Design, and Polishing Backend Development*  
+- 💻 My projects: **OptiLang**, **Forge**, **Crop Recommendation System)**, **Satyanvesh**  
+- 👨‍💻 All of my projects are available at [github.com/Sthamanik](https://github.com/Sthamanik)  
+- 💬 Ask me about **Backend Development, System Design, Machine Learning, Go, TypeScript, Express, Python, FastAPI**  
+- 📫 Reach me at **shresthamanik1820@gmail.com**  
 - ⚡ Fun fact: **I believe AI should make developers more productive, not replace them**
 
 
