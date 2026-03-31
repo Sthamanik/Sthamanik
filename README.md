@@ -59,8 +59,8 @@ Full-stack judiciary management system built for Nepal's legal system.
 ### [Crop Recommendation System](https://github.com/Sthamanik/Crop-recommendation) — [Live Demo](https://stham-crop-recommendation.streamlit.app/)
 99%+ accuracy XGBoost model with proper model selection and cross-validation.  
 **Stack:** Python · Scikit-learn · XGBoost · Streamlit
-- Compared 5 models (XGBoost, Random Forest, KNN, SVM, Logistic Regression) — 
-  XGBoost won at 99.09% · 5-fold cross-validation · Live on Streamlit
+- Compared 5 models (XGBoost, Random Forest, KNN, SVM, Logistic Regression)
+- XGBoost won at 99.09% · 5-fold cross-validation · Live on Streamlit
 
 ---
 
