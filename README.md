@@ -39,15 +39,11 @@ Production-ready REST API backend built for investment and wealth management pla
 - Async file deletion via BullMQ with exponential backoff retry
 - Full CI/CD, tests gate Docker image build and push to registry
 
----
-
 ### [Forge](https://github.com/Sthamanik/Forge) — Distributed Backend Infrastructure
 Production-style distributed backend in Go with full observability.  
 **Stack:** Go · PostgreSQL · Redis · Docker · Prometheus
 - API Gateway · JWT auth · RBAC · Worker pool · Cache-aside pattern
 - Benchmarked at ~2,000 req/s · 35ms p95 latency on Apple M4 Air
-
----
 
 ### [OptiLang](https://github.com/Sthamanik/OptiLang) — Python-Inspired Code Interpreter
 Published on PyPI — installable with a single `pip install optilang`  
@@ -55,14 +51,10 @@ Published on PyPI — installable with a single `pip install optilang`
 - Real-time code analysis · Pattern detection · Execution profiling
 - Web app with browser-based code execution in active development
 
----
-
 ### [Satyanvesh](https://github.com/Sthamanik/Satyanvesh) — Legal Case Management Platform
 Full-stack judiciary management system built for Nepal's legal system.  
 **Stack:** TypeScript · Node.js · Express · React · MongoDB · Cloudinary
 - Five-role RBAC · Full case lifecycle · Real-time notifications · Document management
-
----
 
 ### [Crop Recommendation System](https://github.com/Sthamanik/Crop-recommendation) — [Live Demo](https://stham-crop-recommendation.streamlit.app/)
 99%+ accuracy XGBoost model with proper model selection and cross-validation.  
