@@ -74,5 +74,4 @@ Full-stack judiciary management system built for Nepal's legal system.
 **Email:** shresthamanik1820@gmail.com  
 **LinkedIn:** [linkedin.com/in/manik-kumar-shrestha](https://linkedin.com/in/manik-kumar-shrestha)  
 
-**From Snippets ⚙️ To Systems 💻**  
-*Open to backend engineering roles and internships — local or remote.*
+**From Snippets ⚙️ To Systems 💻** 
